@@ -1,8 +1,8 @@
-##Welcome to the FIU Intro to HTML/CSS and Git Local Hack Day Repo!
+## Welcome to the FIU Intro to HTML/CSS and Git Local Hack Day Repo!
 
 Make sure to check out the presentation as well as these resources. This repo will be updated after Local Hack Day with example code.
 
-##Resources
+## Resources
 
 ### Education
 * [edX - Computer Science Courses](http://wmi.is/q0tt4v) - free courses from known universities (can also pay for certifications on certain courses)
